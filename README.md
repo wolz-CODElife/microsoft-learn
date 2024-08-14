@@ -13,6 +13,35 @@ Learn, develop, and master essential Git and GitHub skills. Start here to jump-s
 
 Below are the GitHub learning paths currently published on MS Learn. If you're looking for the complete module catalog, you can find it [here](https://docs.microsoft.com/en-us/users/githubtraining/collections/8p72c736z77gjp).
 
+### GitHub Fundamentals
+[Learning path landing page](https://docs.microsoft.com/en-us/users/githubtraining/collections/p0ygh4erdrmkp7)
+
+<details><summary>Expand for the GitHub Fundamentals modules:</summary>
+
+  - [Introduction to GitHub](https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/?ns-enrollment-type=Collection&ns-enrollment-id=p0ygh4erdrmkp7)
+  - [Manage repository changes by using pull requests on GitHub](https://docs.microsoft.com/en-us/learn/modules/manage-changes-pull-requests-github/?ns-enrollment-type=Collection&ns-enrollment-id=p0ygh4erdrmkp7)
+  - [Manage software delivery by using a release based workflow on GitHub](https://docs.microsoft.com/en-us/learn/modules/release-based-workflow-github/?ns-enrollment-type=Collection&ns-enrollment-id=p0ygh4erdrmkp7)
+  - [Introduction to GitHub's Products](https://docs.microsoft.com/en-us/learn/modules/github-introduction-products/?ns-enrollment-type=Collection&ns-enrollment-id=p0ygh4erdrmkp7)
+  - [Introduction to GitHub administration](https://docs.microsoft.com/en-us/learn/modules/github-introduction-administration/?ns-enrollment-type=Collection&ns-enrollment-id=p0ygh4erdrmkp7)
+  - [Maintain a secure repository by using GitHub best practices](https://docs.microsoft.com/en-us/learn/modules/maintain-secure-repository-github/?ns-enrollment-type=Collection&ns-enrollment-id=p0ygh4erdrmkp7)
+
+</details>
+
+### GitHub Copilot
+[Learning path landing page](https://learn.microsoft.com/en-us/training/paths/copilot/)
+
+<details><summary>Expand for the GitHub Copilot modules:</summary>
+
+  - [Introduction to GitHub Copilot](https://learn.microsoft.com/en-us/training/modules/introduction-to-github-copilot/)
+  - [Introduction to prompt engineering with GitHub Copilot](https://learn.microsoft.com/en-us/training/modules/introduction-prompt-engineering-with-github-copilot/)
+  - [Introduction to GitHub Copilot for Business](https://learn.microsoft.com/en-us/training/modules/introduction-to-github-copilot-for-business/)
+  - [Introduction to GitHub Copilot Enterprise](https://learn.microsoft.com/en-us/training/modules/introduction-to-github-copilot-enterprise/)
+  - [Using GitHub Copilot with JavaScript](https://learn.microsoft.com/en-us/training/modules/introduction-copilot-javascript/)
+  - [Using GitHub Copilot with Python](https://learn.microsoft.com/en-us/training/modules/introduction-copilot-python/)
+  - [Using advanced GitHub Copilot features](https://learn.microsoft.com/en-us/training/modules/advanced-github-copilot/)
+
+</details>
+
 ### GitHub Actions
 [Learning path landing page](https://docs.microsoft.com/en-us/users/githubtraining/collections/n5p4a5z7keznp5)
 
@@ -24,22 +53,6 @@ Below are the GitHub learning paths currently published on MS Learn. If you're l
   - [Create and publish custom GitHub actions](https://docs.microsoft.com/en-us/learn/modules/create-custom-github-actions/?ns-enrollment-type=Collection&ns-enrollment-id=n5p4a5z7keznp5)
   - [Build and deploy applications to Azure by using GitHub Actions](https://docs.microsoft.com/en-us/learn/modules/github-actions-cd/?ns-enrollment-type=Collection&ns-enrollment-id=n5p4a5z7keznp5)
   - [Manage GitHub Actions in the enterprise](https://docs.microsoft.com/en-us/learn/modules/manage-github-actions-enterprise/?ns-enrollment-type=Collection&ns-enrollment-id=n5p4a5z7keznp5)
-
-</details>
-
-### GitHub Administration
-[Learning path landing page](https://docs.microsoft.com/en-us/users/githubtraining/collections/mom7u1gzjdxw03)
-
-<details><summary>Expand for the GitHub Administration modules:</summary>
-  
-  - [Introduction to GitHub administration](https://docs.microsoft.com/en-us/learn/modules/github-introduction-administration/?ns-enrollment-type=Collection&ns-enrollment-id=mom7u1gzjdxw03)
-  - [Introduction to GitHub's Products](https://docs.microsoft.com/en-us/learn/modules/github-introduction-products/?ns-enrollment-type=Collection&ns-enrollment-id=mom7u1gzjdxw03)
-  - [Maintain a secure repository by using GitHub best practices](https://docs.microsoft.com/en-us/learn/modules/maintain-secure-repository-github/?ns-enrollment-type=Collection&ns-enrollment-id=mom7u1gzjdxw03)
-  - [Manage sensitive data and security policies within GitHub](https://docs.microsoft.com/en-us/learn/modules/manage-sensitive-data-security-policies/?ns-enrollment-type=Collection&ns-enrollment-id=mom7u1gzjdxw03)
-  - [Authenticate and authorize user identities on GitHub](https://docs.microsoft.com/en-us/learn/modules/authenticate-authorize-user-identities-github/?ns-enrollment-type=Collection&ns-enrollment-id=mom7u1gzjdxw03)
-  - [GitHub administration for enterprise support and adoption](https://docs.microsoft.com/en-us/learn/modules/github-administration-for-enterprise-support-adoption/?ns-enrollment-type=Collection&ns-enrollment-id=mom7u1gzjdxw03)
-  - [Manage GitHub Actions in the enterprise](https://docs.microsoft.com/en-us/learn/modules/manage-github-actions-enterprise/?ns-enrollment-type=Collection&ns-enrollment-id=mom7u1gzjdxw03)
-  - [Leverage GitHub Actions to publish to GitHub Packages](https://docs.microsoft.com/en-us/learn/modules/github-actions-packages/?ns-enrollment-type=Collection&ns-enrollment-id=mom7u1gzjdxw03)
 
 </details>
 
@@ -59,17 +72,19 @@ Below are the GitHub learning paths currently published on MS Learn. If you're l
 
 </details>
 
-### GitHub Fundamentals
-[Learning path landing page](https://docs.microsoft.com/en-us/users/githubtraining/collections/p0ygh4erdrmkp7)
+### GitHub Administration
+[Learning path landing page](https://docs.microsoft.com/en-us/users/githubtraining/collections/mom7u1gzjdxw03)
 
-<details><summary>Expand for the GitHub Fundamentals modules:</summary>
-
-  - [Introduction to GitHub](https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/?ns-enrollment-type=Collection&ns-enrollment-id=p0ygh4erdrmkp7)
-  - [Manage repository changes by using pull requests on GitHub](https://docs.microsoft.com/en-us/learn/modules/manage-changes-pull-requests-github/?ns-enrollment-type=Collection&ns-enrollment-id=p0ygh4erdrmkp7)
-  - [Manage software delivery by using a release based workflow on GitHub](https://docs.microsoft.com/en-us/learn/modules/release-based-workflow-github/?ns-enrollment-type=Collection&ns-enrollment-id=p0ygh4erdrmkp7)
-  - [Introduction to GitHub's Products](https://docs.microsoft.com/en-us/learn/modules/github-introduction-products/?ns-enrollment-type=Collection&ns-enrollment-id=p0ygh4erdrmkp7)
-  - [Introduction to GitHub administration](https://docs.microsoft.com/en-us/learn/modules/github-introduction-administration/?ns-enrollment-type=Collection&ns-enrollment-id=p0ygh4erdrmkp7)
-  - [Maintain a secure repository by using GitHub best practices](https://docs.microsoft.com/en-us/learn/modules/maintain-secure-repository-github/?ns-enrollment-type=Collection&ns-enrollment-id=p0ygh4erdrmkp7)
+<details><summary>Expand for the GitHub Administration modules:</summary>
+  
+  - [Introduction to GitHub administration](https://docs.microsoft.com/en-us/learn/modules/github-introduction-administration/?ns-enrollment-type=Collection&ns-enrollment-id=mom7u1gzjdxw03)
+  - [Introduction to GitHub's Products](https://docs.microsoft.com/en-us/learn/modules/github-introduction-products/?ns-enrollment-type=Collection&ns-enrollment-id=mom7u1gzjdxw03)
+  - [Maintain a secure repository by using GitHub best practices](https://docs.microsoft.com/en-us/learn/modules/maintain-secure-repository-github/?ns-enrollment-type=Collection&ns-enrollment-id=mom7u1gzjdxw03)
+  - [Manage sensitive data and security policies within GitHub](https://docs.microsoft.com/en-us/learn/modules/manage-sensitive-data-security-policies/?ns-enrollment-type=Collection&ns-enrollment-id=mom7u1gzjdxw03)
+  - [Authenticate and authorize user identities on GitHub](https://docs.microsoft.com/en-us/learn/modules/authenticate-authorize-user-identities-github/?ns-enrollment-type=Collection&ns-enrollment-id=mom7u1gzjdxw03)
+  - [GitHub administration for enterprise support and adoption](https://docs.microsoft.com/en-us/learn/modules/github-administration-for-enterprise-support-adoption/?ns-enrollment-type=Collection&ns-enrollment-id=mom7u1gzjdxw03)
+  - [Manage GitHub Actions in the enterprise](https://docs.microsoft.com/en-us/learn/modules/manage-github-actions-enterprise/?ns-enrollment-type=Collection&ns-enrollment-id=mom7u1gzjdxw03)
+  - [Leverage GitHub Actions to publish to GitHub Packages](https://docs.microsoft.com/en-us/learn/modules/github-actions-packages/?ns-enrollment-type=Collection&ns-enrollment-id=mom7u1gzjdxw03)
 
 </details>
 
